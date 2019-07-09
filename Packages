@@ -13,3 +13,18 @@ SHA256sum: 77cc19413b712aeacf0ebeb6d437627cb30a7031246d95edc29dc6a7de030570
 Filename: debs//PUBG1.deb
 
 
+Package: com.KlashKsa.PG2
+Name: PUBG2
+Version: 0.13.0
+Size: 53164
+Architecture: iphoneos-arm
+Description: اللي عنده جلبريك ( الكترا وشيميرا ) يثبت هذي النسخه بس
+Maintainer: Y_Dagriri <yagoub.dagriri@gmail.com>
+Author: Y_Dagriri <yagoub.dagriri@gmail.com>
+Section: Tweaks
+MD5sum: 881dcd6687984a218ad29e23085e901b
+SHA1sum: 437f99ddf28303f8988e81e6bd252fa2aa23e2b1
+SHA256sum: b010e0633ad1f0dd39f8ae2396a47372a08df10467804242f7fcd60f7c6f613a
+Filename: debs//PUBG2.deb
+
+
