@@ -3,7 +3,7 @@ Name: PUBG1
 Version: 0.13.0
 Size: 53346
 Architecture: iphoneos-arm
-Description: for Uncover JB
+Description: اللي عنده جلبريك ( غير الكترا وشيميرا ) يثبت هذي النسخه بس
 Maintainer: Y_Dagriri <yagoub.dagriri@gmail.com>
 Author: Y_Dagriri <yagoub.dagriri@gmail.com>
 Section: Tweaks
@@ -11,3 +11,5 @@ MD5sum: f5a509637b9d3abe207719ec441fe084
 SHA1sum: c8835a4074d0f5d66162f71c1d20627ceb92e6a7
 SHA256sum: 77cc19413b712aeacf0ebeb6d437627cb30a7031246d95edc29dc6a7de030570
 Filename: debs//PUBG1.deb
+
+
