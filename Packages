@@ -3,7 +3,7 @@ Name: PUBG1
 Version: 0.13.0
 Size: 53346
 Architecture: iphoneos-arm
-Description: اللي عنده جلبريك ( غير الكترا وشيميرا ) يثبت هذي النسخه بس
+Description: اللي عنده جلبريك ( غير الكترا وكيميرا ) يثبت هذي النسخه بس
 Maintainer: Y_Dagriri <yagoub.dagriri@gmail.com>
 Author: Y_Dagriri <yagoub.dagriri@gmail.com>
 Section: Tweaks
@@ -18,7 +18,7 @@ Name: PUBG2
 Version: 0.13.0
 Size: 53164
 Architecture: iphoneos-arm
-Description: اللي عنده جلبريك ( الكترا وشيميرا ) يثبت هذي النسخه بس
+Description: اللي عنده جلبريك ( الكترا وكيميرا ) يثبت هذي النسخه بس
 Maintainer: Y_Dagriri <yagoub.dagriri@gmail.com>
 Author: Y_Dagriri <yagoub.dagriri@gmail.com>
 Section: Tweaks
